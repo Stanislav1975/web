@@ -16,7 +16,7 @@
     "@types/leaflet.awesome-markers": "^2.0.2",
     "env-cmd": "^10.1.0",
     "http-proxy-middleware": "^2.0.1",
-    "ionicons": "^2.0.0",
+    "ionicons": "^7.4.0",
     "leaflet": "^1.7.1",
     "leaflet-contextmenu": "^1.4.0",
     "leaflet-gpx": "^1.7.0",
